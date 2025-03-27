@@ -1,0 +1,10 @@
+# Dependencies (if you sync with a desktop later)
+node_modules/
+package-lock.json
+
+# Build stuff (future-proofing)
+dist/
+
+# Mobile/OS clutter
+.DS_Store
+*.log
