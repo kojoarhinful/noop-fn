@@ -15,6 +15,4 @@ noop(); // Nothing happened
 ```
 
 
-### Author
-[Bismark](https://github.com/kojoarhinful)
 
